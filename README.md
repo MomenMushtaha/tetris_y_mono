@@ -1,6 +1,6 @@
 # tetrisymono
 
-A new Flutter application with the help of BoyanO1 
+A new Flutter application with the help of boyan01 
 
 ## Getting Started
 
