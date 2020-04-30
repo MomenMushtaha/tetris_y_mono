@@ -6,11 +6,11 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:tetris_y_mono\n
-VERSION or DATE: Apr 20, 2020\n
-AUTHORS: Mo'men Mushtaha\n
-PURPOSE OF PROJECT:\n
-Implementation of Classic Tetris\n
+* PROJECT TITLE:tetris_y_mono
+* VERSION or DATE: Apr 20, 2020
+* AUTHORS: Mo'men Mushtaha
+* PURPOSE OF PROJECT:
+* Implementation of Classic Tetris
 
 ![](Screenshot_20200425-234521.jpg)
 ![](Screenshot_20200425-235521.jpg)
